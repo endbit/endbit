@@ -1,3 +1,5 @@
+<img width="100%" src="./assets/banner.png" alt="Banner" />
+
 # Hi there, I'm Endrick Brito
 
 ### Software Engineer • SaaS Builder • AI Automation
