@@ -1,4 +1,4 @@
-<img width="100%" src="./assets/banner2.svg" alt="Banner" />
+<img width="100%" src="./assets/banner21.svg" alt="Banner" />
 
 # Hi there, I'm Endrick Brito
 
