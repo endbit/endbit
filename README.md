@@ -115,41 +115,58 @@ The systems I build aim to:
 Technology should quietly help businesses operate better.
 
 ---
-
 ## Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="25%">
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
-</p>
+React  
+Next.js  
+TypeScript  
+JavaScript  
+Tailwind CSS
+
+</td>
+<td valign="top" width="25%">
 
 ### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
+Java  
+Spring Boot  
+Node.js  
+REST APIs
+
+</td>
+<td valign="top" width="25%">
+
+### Data
+
+MySQL  
+PostgreSQL  
+Redis
+
+</td>
+<td valign="top" width="25%">
+
+### AI & Infra
+
+Python  
+OpenAI  
+Groq  
+Ollama  
+Docker  
+Linux
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,ts,js,nodejs,mysql,postgres,redis,python,docker,linux,githubactions,aws" />
 </p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
-</p>
-
-### AI & Automation
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-OpenAI • Groq • Ollama • AI Agents
-
-### Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,aws" />
-</p>
-
 ---
 
 ## Areas of Interest
