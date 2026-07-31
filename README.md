@@ -1,4 +1,4 @@
-# Hi there, I'm Endrick Brito 👋
+# Hi there, I'm Endrick Brito
 
 ### Software Engineer • SaaS Builder • AI Automation
 
@@ -8,7 +8,7 @@ I build software focused on automation, operational efficiency, artificial intel
 
 ---
 
-## 🚀 About Me
+## About Me
 
 My journey into software started by solving operational problems.
 
@@ -26,7 +26,7 @@ I believe technology should simplify operations, not create more complexity.
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 Current Work:
@@ -52,7 +52,7 @@ Mission:
 
 ---
 
-## 🌟 Featured Project
+## Featured Project
 
 ### Lead Recall AI
 
@@ -68,7 +68,7 @@ Lead Recall AI solves this by:
 * Generating new opportunities automatically
 * Supporting sales teams with actionable insights
 
-#### Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -81,7 +81,25 @@ Lead Recall AI solves this by:
 
 ---
 
-## 🛠 Tech Stack
+## Development Philosophy
+
+Most companies don't suffer from a lack of software.
+
+They suffer from disconnected workflows, fragmented information, repetitive tasks, and operational friction.
+
+The systems I build aim to:
+
+* Connect information
+* Automate processes
+* Improve visibility
+* Reduce manual work
+* Support better decisions
+
+Technology should quietly help businesses operate better.
+
+---
+
+## Tech Stack
 
 ### Frontend
 
@@ -117,25 +135,7 @@ OpenAI • Groq • Ollama • AI Agents
 
 ---
 
-## 💡 Development Philosophy
-
-> Most companies don't suffer from a lack of software.
->
-> They suffer from disconnected workflows, fragmented information, repetitive tasks, and operational friction.
-
-The systems I build aim to:
-
-* Connect information
-* Automate processes
-* Improve visibility
-* Reduce manual work
-* Support better decisions
-
-Technology should quietly help businesses operate better.
-
----
-
-## 📈 Areas of Interest
+## Areas of Interest
 
 * Artificial Intelligence
 * SaaS Development
@@ -148,7 +148,18 @@ Technology should quietly help businesses operate better.
 
 ---
 
-## 📊 GitHub Stats
+## Current Projects
+
+* Lead Recall AI
+* AI-Powered Business Automation
+* Operational Dashboards
+* Workflow Orchestration Systems
+* Multi-Tenant SaaS Platforms
+* CRM & WhatsApp Integrations
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -157,31 +168,16 @@ Technology should quietly help businesses operate better.
 
 ---
 
-## 🔥 Current Projects
-
-* 🚀 Lead Recall AI
-* 🤖 AI-Powered Business Automation
-* 📊 Operational Dashboards
-* ⚡ Workflow Orchestration Systems
-* 🏢 Multi-Tenant SaaS Platforms
-* 🔗 CRM & WhatsApp Integrations
-
----
-
-## 📫 Connect With Me
+## Connect
 
 <p>
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/endbit">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-<div align="center">
-
 ### Building software that solves real business problems.
 
-*"Technology should simplify operations, not complicate them."*
-
-</div>
+Technology should simplify operations, not complicate them.
