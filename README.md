@@ -1,17 +1,5 @@
 <img width="100%" src="./assets/banner3.svg" alt="Endrick Brito Banner" />
 
-<h1 align="center">Endrick Brito</h1>
-
-<p align="center">
-  <strong>Software Engineer • SaaS Builder • AI Automation</strong>
-</p>
-
-<p align="center">
-  Building software that solves real business problems through automation, AI, and scalable systems.
-</p>
-
----
-
 ## About
 
 My journey into software started by solving operational problems.
