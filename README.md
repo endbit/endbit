@@ -81,6 +81,21 @@ Lead Recall AI solves this by:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
+**Links**
+<p>
+  <a href="https://leadrecallai.com">
+    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/SEU_USUARIO/lead-recall-ai">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://seusite.com/case-study">
+    <img src="https://img.shields.io/badge/Case_Study-27272A?style=for-the-badge" />
+  </a>
+</p>
+
 ---
 
 ## Development Philosophy
