@@ -1,0 +1,110 @@
+<svg width="1600" height="400" viewBox="0 0 1600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="400">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="40" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1600" height="400" fill="url(#bg)"/>
+
+  <!-- Glow -->
+  <circle cx="1350" cy="80" r="180" fill="#2563EB" opacity="0.15" filter="url(#glow)"/>
+  <circle cx="1250" cy="320" r="220" fill="#8B5CF6" opacity="0.12" filter="url(#glow)"/>
+
+  <!-- Grid -->
+  <g opacity="0.06">
+    <path d="M0 80H1600" stroke="white"/>
+    <path d="M0 160H1600" stroke="white"/>
+    <path d="M0 240H1600" stroke="white"/>
+    <path d="M0 320H1600" stroke="white"/>
+
+    <path d="M200 0V400" stroke="white"/>
+    <path d="M400 0V400" stroke="white"/>
+    <path d="M600 0V400" stroke="white"/>
+    <path d="M800 0V400" stroke="white"/>
+    <path d="M1000 0V400" stroke="white"/>
+    <path d="M1200 0V400" stroke="white"/>
+    <path d="M1400 0V400" stroke="white"/>
+  </g>
+
+  <!-- Decorative Code -->
+  <g opacity="0.15" font-family="monospace" font-size="16" fill="#94A3B8">
+    <text x="980" y="120">const build = () =&gt; scalableSoftware()</text>
+    <text x="980" y="150">automation.connect(workflows)</text>
+    <text x="980" y="180">ai.detect(opportunities)</text>
+    <text x="980" y="210">system.optimize(operations)</text>
+    <text x="980" y="240">deploy(product)</text>
+  </g>
+
+  <!-- Accent Line -->
+  <rect x="120" y="92" width="120" height="6" rx="3" fill="url(#accent)"/>
+
+  <!-- Name -->
+  <text
+    x="120"
+    y="170"
+    fill="white"
+    font-size="68"
+    font-weight="700"
+    font-family="Segoe UI, Inter, Arial"
+  >
+    Endrick Brito
+  </text>
+
+  <!-- Subtitle -->
+  <text
+    x="120"
+    y="225"
+    fill="#94A3B8"
+    font-size="28"
+    font-family="Segoe UI, Inter, Arial"
+  >
+    Software Engineer • SaaS Builder • AI Automation
+  </text>
+
+  <!-- Description -->
+  <text
+    x="120"
+    y="285"
+    fill="#CBD5E1"
+    font-size="22"
+    font-family="Segoe UI, Inter, Arial"
+  >
+    Transforming business challenges into scalable digital solutions.
+  </text>
+
+  <!-- Tech Pills -->
+  <g>
+    <rect x="120" y="320" width="80" height="34" rx="17" fill="#111827"/>
+    <text x="142" y="342" fill="#38BDF8" font-size="16" font-family="Arial">Java</text>
+
+    <rect x="220" y="320" width="90" height="34" rx="17" fill="#111827"/>
+    <text x="242" y="342" fill="#61DAFB" font-size="16" font-family="Arial">React</text>
+
+    <rect x="330" y="320" width="110" height="34" rx="17" fill="#111827"/>
+    <text x="350" y="342" fill="#6EE7B7" font-size="16" font-family="Arial">Spring</text>
+
+    <rect x="460" y="320" width="90" height="34" rx="17" fill="#111827"/>
+    <text x="478" y="342" fill="#A78BFA" font-size="16" font-family="Arial">Docker</text>
+
+    <rect x="570" y="320" width="60" height="34" rx="17" fill="#111827"/>
+    <text x="592" y="342" fill="#F8FAFC" font-size="16" font-family="Arial">AI</text>
+  </g>
+
+</svg>
